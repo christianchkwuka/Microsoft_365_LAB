@@ -1,1 +1,29 @@
 
+Included evidence:
+- User MFA status (enabled / enforced)
+- Authenticator app registration
+- Successful MFA challenge
+
+---
+
+## Audit Verification
+- MFA status verified in Entra ID
+- Sign-in logs confirm MFA challenge and success
+- Admin and standard users covered
+
+---
+
+## Framework Mapping
+
+### ISO/IEC 27001
+- A.5.17 – Authentication Information
+- A.8.5 – Secure Authentication
+
+### NIST SP 800-53
+- IA-2 – Identification and Authentication (Organizational Users)
+- IA-2(1) – Multi-factor Authentication
+
+### BSI IT-Grundschutz
+- ORP.4.A10 – Starke Authentisierung
+- ORP.4.A8 – Schutz von Administrationskonten
+
