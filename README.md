@@ -28,7 +28,7 @@ All configurations are validated using **real sign-in logs and audit evidence**,
 |-----------|-------------|--------|
 | IAM-01 | Multi-Factor Authentication (MFA) | Implemented |
 | IAM-02 | Admin Roles & Least Privilege | Implemented |
-| IAM-03 | Conditional Access Policies | Planned |
+| IAM-03 | Conditional Access Policies | Implemented |
 
 ---
 
