@@ -43,5 +43,28 @@ User transferred from HR → IT
 <img width="1533" height="852" alt="After_Move" src="https://github.com/user-attachments/assets/2c68bd16-ca2e-49cb-8e3b-9b7e518f6dc3" />
 
 
-- 
+- ## 🔴 Leaver Process
+
+### Scenario
+User leaves organization
+
+### Steps
+1. Account disabled
+2. Removed from all groups
+3. Access revoked
+
+### Result
+- No system access
+- Identity secured
+
+### Risk Mitigated
+- Unauthorized access after exit
+
+- ### Before Account Enabled
+- <img width="1582" height="848" alt="Accoubt_Enabled" src="https://github.com/user-attachments/assets/72c660e8-cb8e-44de-bae0-904b54c7a2ac" />
+
+### After Account Disabled
+- <img width="1467" height="747" alt="image" src="https://github.com/user-attachments/assets/739e8e0c-8108-4642-9c98-be143f01c17f" />
+
+
 
