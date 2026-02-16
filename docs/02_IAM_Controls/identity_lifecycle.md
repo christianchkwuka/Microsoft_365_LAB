@@ -61,6 +61,7 @@ User leaves organization
 - Unauthorized access after exit
 
 - ### Before Account Enabled
+- 
 - <img width="1582" height="848" alt="Accoubt_Enabled" src="https://github.com/user-attachments/assets/72c660e8-cb8e-44de-bae0-904b54c7a2ac" />
 
 ### After Account Disabled
