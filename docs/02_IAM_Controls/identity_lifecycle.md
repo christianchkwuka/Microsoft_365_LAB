@@ -68,4 +68,11 @@ User leaves organization
 - <img width="1467" height="747" alt="image" src="https://github.com/user-attachments/assets/739e8e0c-8108-4642-9c98-be143f01c17f" />
 
 
+## 🔐 Lifecycle Control Mapping
+
+| Stage | Control | Framework |
+|------|--------|----------|
+| Joiner | Access provisioning | ISO 27001 A.9 |
+| Mover | Access review | ISO 27001 A.9.2 |
+| Leaver | Access revocation | ISO 27001 A.9.2.6 |
 
