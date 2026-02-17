@@ -83,6 +83,9 @@ Least privilege enforced and monitored
 
 
 
+
+
+
 <img width="1567" height="837" alt="Privileged_Identity_Magt_1" src="https://github.com/user-attachments/assets/588d01a2-f002-4c73-94e2-17736a9cb27d" />
 
 
