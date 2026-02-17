@@ -89,6 +89,7 @@ Least privilege enforced and monitored
 <img width="1567" height="837" alt="Privileged_Identity_Magt_1" src="https://github.com/user-attachments/assets/588d01a2-f002-4c73-94e2-17736a9cb27d" />
 
 
+##  Privileged roles are assigned as eligible with time-bound access (e.g., 8 hours), ensuring Just-in-Time (JIT) access and reducing attack surface.”
 
 <img width="1908" height="862" alt="Privileged_Identity_Magt_2" src="https://github.com/user-attachments/assets/62af5c7a-b6da-4650-8b23-f3601cd6a23d" />
 
