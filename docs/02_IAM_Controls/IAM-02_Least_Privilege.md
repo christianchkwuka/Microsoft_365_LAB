@@ -67,7 +67,7 @@ Ensure administrative permissions follow the **principle of least privilege** an
 
 
 ## Step:
-Assigned Global Administrator role via Microsoft Entra PIM
+## Assigned Global Administrator role via Microsoft Entra PIM
 
 ## Control:
 Role-based access control (RBAC)
