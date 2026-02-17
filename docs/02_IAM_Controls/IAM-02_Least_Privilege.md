@@ -66,19 +66,19 @@ Ensure administrative permissions follow the **principle of least privilege** an
 
 
 
-Step:
+## Step:
 Assigned Global Administrator role via Microsoft Entra PIM
 
-Control:
+## Control:
 Role-based access control (RBAC)
 
-Finding:
+## Finding:
 Privileged access restricted to authorized account (backup.admin)
 
-Risk:
+## Risk:
 Excessive privilege assignment could lead to full tenant compromise
 
-Mitigation:
+## Mitigation:
 Least privilege enforced and monitored
 
 
